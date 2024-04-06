@@ -19,6 +19,8 @@ header {
 }
 
 nav {
+    display: flex;
+    justify-content: space-around;
     border-top: 5px solid white;
     border-bottom: 5px solid white;
     padding: 25px 100px 25px 95px;
